@@ -1,4 +1,4 @@
-NewsHub is a Next.js-based news web application that allows users to stay informed with the latest headlines and articles. 
+NewsWebApp is a Next.js-based news web application that allows users to stay informed with the latest headlines and articles. 
 It leverages MongoDB with Mongoose for data storage, and NextAuth.js for authentication. 
 The app supports Farsi language in this version.
 
